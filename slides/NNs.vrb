@@ -1,0 +1,7 @@
+\frametitle{References}
+\begin{itemize}
+        \item Christopher M. Bishop (2007).
+Pattern Recognition and Machine Learning
+            \item Chollet, F., \& Allaire, J. J. (2018). \emph{Deep Learning with R}.
+            \item There are some really good \href{https://www.coursera.org/}{Coursera courses} for deep learning, particularly with Python.
+        \end{itemize}
